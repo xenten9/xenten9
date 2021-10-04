@@ -4,9 +4,7 @@
     Music production,
     Coding.
 - I’m currently learning
-    Javascript
-- I’m looking to collaborate on
-    project involving the use of python/pygame
+    Java.
 - How to reach me
     xenten9@gmail.com
 
