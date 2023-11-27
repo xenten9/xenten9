@@ -1,11 +1,17 @@
-- Hi, I’m @xenten9
-- I’m interested in
+- Hi, I’m @xenten9.
+- I’m interested in:
+    Data science,
     Game development,
-    Music production,
-    Coding.
-- I’m currently learning
-    Java.
-- How to reach me
+    Programming in general.
+- Languages I know:
+    Python,
+    Java,
+    MySQL,
+    Risc-V,
+    Racket.
+- I’m currently learning:
+    Lambda calculus.
+- How to reach me:
     xenten9@gmail.com
 
 <!---
